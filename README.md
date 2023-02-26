@@ -1,0 +1,2 @@
+# mynues-test
+course edu
